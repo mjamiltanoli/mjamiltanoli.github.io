@@ -20,3 +20,7 @@ Meta tags + Sitemap + Blogger Backlink + LinkedIn Backlink. Google + Gemini + Gr
 ---
 **Author: Jamil Ahmad | mjamiltanoli.github.io | 2026**
 **Location: Abbottabad 
+---
+**Live Website:** https://mjamiltanoli.github.io/
+**Share Link:** https://github.com/mjamiltanoli/mjamiltanoli.github.io/blob/main/5-POINTS.md
+**From Abbottabad To UNO - 2026**
